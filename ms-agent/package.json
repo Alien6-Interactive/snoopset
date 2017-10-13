@@ -1,0 +1,22 @@
+{
+  "name": "ms-agent",
+  "version": "0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alien6-Interactive/snoopset"
+  },
+  "author": "Alien6 <contact@alien6.com> (http://alien6.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alien6-Interactive/snoopset/issues"
+  },
+  "homepage": "https://github.com/Alien6-Interactive/snoopset",
+  "dependencies": {
+    "csv-parser": "^1.7.0"
+  }
+}
